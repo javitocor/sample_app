@@ -204,7 +204,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bootstrap-sass (= 3.4.1)
+  bootstrap-sass
   byebug (= 9.0.6)
   coffee-rails (= 4.2.2)
   guard (= 2.13.0)
